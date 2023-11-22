@@ -5,3 +5,4 @@ flower==1.1.0
 stripe==4.0.2
 python-dotenv==1.0.0
 WeasyPrint==56.1
+redis==4.3.4
